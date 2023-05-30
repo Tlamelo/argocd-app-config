@@ -1,4 +1,4 @@
-apiVersion: argoproj.io/v1alpha1
+apiVersion: argoproj.io/v1alpha1 #API version changes as new releases of ArgoCD are being released 
 kind: Application
 metadata:
   name: myapp-argo-application
